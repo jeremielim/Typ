@@ -1,6 +1,5 @@
 # TYP
-Easily calculate your tip and total based on your bills subtotal.
-
+Easily calculate your bill's tip and total.
 
 ##Check it
-[http://jeremiespoken.com/typ/](typ)
+[typ](http://jeremiespoken.com/typ/)
